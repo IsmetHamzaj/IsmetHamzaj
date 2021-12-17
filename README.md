@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmetHamzaj
-- 👀 I’m interested in front end 
-- 🌱 I’m currently learning database
+- 👀 I’m interested in back end
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects , company
 - 📫 How to reach me instagram ismet_hamzaj1
 
