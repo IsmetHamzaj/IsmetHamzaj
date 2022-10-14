@@ -10,7 +10,7 @@ I love programming and I love JavaScript.
 
 - 👨🏽‍💻 I’m currently a desgin software student at my 1st year; 
 - 🤔 My interests are with web development and back-end programming, AI, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software;
+- 💼 I’m pursuing a Bachelor's degree in Design Software;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
