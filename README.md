@@ -26,6 +26,6 @@ I love programming and I love JavaScript.
 
 ### My GitHub Stats
 
-![Ismets's github stats](https://github-readme-stats.vercel.app/api?username=IsmetHamzaj&show_icons=true)
+![Ismets's github stats](https://github-readme-stats.vercel.app/api?username=ArtMazi&show_icons=true)
 
 ⭐️ From [Ismet Hamzaj](https://github.com/IsmetHamzaj)
