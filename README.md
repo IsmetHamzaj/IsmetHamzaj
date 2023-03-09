@@ -22,7 +22,7 @@ I love programming and I love JavaScript.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ### Contact me:
-- Email: [![Email](https://img.shields.io/badge/hamzajismet13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzajismet13@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/ismethamzaj4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ismethamzaj4@gmail.com)
 
 ### My GitHub Stats
 
