@@ -31,4 +31,4 @@ If you would like to collaborate or learn more about my work, you can reach me a
 Instagram: ismet_hazaj1
 Facebook: Ismet S. Hamzaj
 Email: hamzajismet13@gmail.com
-Thank you for stopping by!](url)
+Thank you for stopping by
