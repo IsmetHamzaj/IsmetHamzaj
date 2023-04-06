@@ -18,23 +18,12 @@ My technical skills include:
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square)
 
 
-Contributions:
+Ismet Hamzaj(me) is a first-year student studying Technology of Information and Telecommunication at University of Prizren "Ukshin Hoti". 
+He is proficient in HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB, and MySQL.
+Ismet's notable programming project is a full-stack blogging platform where users can register and login to view daily news and blogs, sorted by categories such as education, sports, and technology. He also developed an e-commerce website, doctor appointment system, and weather application, all with database integration.
+Ismet has experience collaborating with other developers as a practicant at Pristine Tech for 9 months.
+He is friendly, collaborative, and enjoys talking to people.
 
-During this year, I have made contributions to the following projects:
-
-Weather app ![1](https://img.shields.io/badge/contributions-1-brightgreen.svg)
-Superhero React ![2](https://img.shields.io/badge/contributions-2-brightgreen.svg)
-Superhero with Node.js, Express.js, MySQL, and Pug ![3](https://img.shields.io/badge/contributions-3-brightgreen.svg)
-
-
-Interests
-Outside of coding, I love meeting new people, traveling, and playing basketball.
-
-Goals
-My goal is to become a senior MERN full-stack web developer. I also hope to learn more about machine learning and web development.
-
-Values
-In my work and interactions with others in the coding community, I value teamwork and the ability to stay focused on the computer for more than 5 hours after work.
 
 Contact Me
 If you would like to collaborate or learn more about my work, you can reach me at:
