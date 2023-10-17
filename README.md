@@ -1,4 +1,4 @@
-[Hi there! I'm Ismet Hamzaj 👋
+Hi there! I'm Ismet Hamzaj 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ishamz.ismethamzaj) [![GitHub followers](https://img.shields.io/github/followers/ishamz?label=Follow&style=social)](https://github.com/ishamz)
 
 
@@ -18,7 +18,7 @@ My technical skills include:
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square)
 
 
-Ismet Hamzaj(me) is a first-year student studying Technology of Information and Telecommunication at University of Prizren "Ukshin Hoti". 
+Ismet Hamzaj is a first-year student studying Technology of Information and Telecommunication at University of Prizren "Ukshin Hoti". 
 He is proficient in HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB, and MySQL.
 Ismet's notable programming project is a full-stack blogging platform where users can register and login to view daily news and blogs, sorted by categories such as education, sports, and technology. He also developed an e-commerce website, doctor appointment system, and weather application, all with database integration.
 Ismet has experience collaborating with other developers as a practicant at Pristine Tech for 9 months.
