@@ -28,7 +28,7 @@ He is friendly, collaborative, and enjoys talking to people.
 Contact Me
 If you would like to collaborate or learn more about my work, you can reach me at:
 
-Instagram: ismet_hazaj1
+Instagram: ismet_hamzaj1
 Facebook: Ismet S. Hamzaj
 Email: hamzajismet13@gmail.com
 Thank you for stopping by
